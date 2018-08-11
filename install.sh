@@ -1,5 +1,4 @@
 #!/bin/bash
-#Credit to @Oppressings on twitter
 #Auto setup for a rapssbery pi miner useing the cpuminer-multi
 #Any issues please contact me there
 #dependencies
