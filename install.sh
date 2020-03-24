@@ -1,6 +1,5 @@
 #!/bin/bash
 #Auto setup for a rapssbery pi miner useing the cpuminer-multi
-#Any issues please contact me there
 #dependencies
 
 sudo apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev -y 
